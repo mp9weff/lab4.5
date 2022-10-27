@@ -1,0 +1,6 @@
+﻿  lab4.5.cpp
+C:\Users\ASUS\source\repos\lab4.5\lab4.5\lab4.5.cpp(16,38): warning C4804: '>=': unsafe use of type 'bool' in operation
+C:\Users\ASUS\source\repos\lab4.5\lab4.5\lab4.5.cpp(17,59): warning C4804: '>=': unsafe use of type 'bool' in operation
+C:\Users\ASUS\source\repos\lab4.5\lab4.5\lab4.5.cpp(28,39): warning C4804: '>=': unsafe use of type 'bool' in operation
+C:\Users\ASUS\source\repos\lab4.5\lab4.5\lab4.5.cpp(29,60): warning C4804: '>=': unsafe use of type 'bool' in operation
+  lab4.5.vcxproj -> C:\Users\ASUS\source\repos\lab4.5\Debug\lab4.5.exe
